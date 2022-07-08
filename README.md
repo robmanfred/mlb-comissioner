@@ -1,4 +1,4 @@
-# mlb-comissioner
+# MLB Commissioner
 
 ## Project setup
 ```
